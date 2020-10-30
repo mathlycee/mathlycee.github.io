@@ -23,7 +23,7 @@ Liste des cours et TDs, téléchargeable en format pdf, de la première année d
 
 ## Cours avec TDs TCT
 
-Liste des cours avec TDs, téléchargeable en format pdf, du Tronc Commun Technique (TCT) du Baccalauréat International Option Française (BIOF).
+Liste des cours avec TDs, téléchargeable en format pdf, du Tronc Commun Technique (TCT).
 
 |    | Chapitre                                                                 |
 |:--:|--------------------------------------------------------------------------|
