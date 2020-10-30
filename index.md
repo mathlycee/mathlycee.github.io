@@ -40,4 +40,4 @@ Liste des cours avec TDs, téléchargeable en format pdf, du Tronc Commun Techni
 
 ## Support et Contact
 
-Pour toute information complémentaire contacter moi sur [staryass@hotmail.fr](mailto:staryass@hotmail.fr).
+Pour toute information complémentaire contacter moi sur [aitlamallam.sana@gmail.com](mailto:aitlamallam.sana@gmail.com).
