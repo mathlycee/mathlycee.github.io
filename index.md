@@ -17,18 +17,12 @@ Liste des cours et TDs, téléchargeable en format pdf, de la première année d
 
 Liste des cours avec TDs, téléchargeable en format pdf, du Tronc Commun Technique (TCT).
 
-|    | Chapitre                                                                 |
-|:--:|--------------------------------------------------------------------------|
-| 1  | [Ensemble $\mathbb{N}$ et notions d'arithmétique](pdfs/TCT/chap1.pdf)    |
-| 2  | [Calcul vectoriel dans le plan](pdfs/TCT/chap2.pdf)                      |
-| 3  |                                                                          |
-| 4  |                                                                          |
-| 5  |                                                                          |
-| 6  |                                                                          |
-| 7  |                                                                          |
-| 8  |                                                                          |
-| 9  |                                                                          |
-| 10 |                                                                          |
+|    | Chapitre                                                                 | Série                     |
+|:--:|--------------------------------------------------------------------------|:-------------------------:|
+| 1  | Ensemble $\mathbb{N}$ et notions d'arithmétique                          | TD1                       |
+| 2  | Calcul vectoriel dans le plan                                            | TD2                       |
+| 3  |                                                                          |                           |
+
 
 ## Support et Contact
 
