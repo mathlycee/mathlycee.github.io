@@ -8,7 +8,7 @@ Liste des cours et TDs, téléchargeable en format pdf, de la première année d
 
 |    | Chapitre                                           | Série                     |
 |:--:|----------------------------------------------------|:-------------------------:|
-| 1  | [Notions de logique](pdfs/1STE/chap1.pdf)          | TD1                       |
+| 1  | [Notions de logique](pdfs/1STE/Chap1.pdf)          | TD1                       |
 | 2  |                                                    |                           |
 | 3  |                                                    |                           |
 
