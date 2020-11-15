@@ -21,7 +21,7 @@ Liste des cours avec TDs, téléchargeable en format pdf, du Tronc Commun Techni
 |:--:|---------------------------------------------------------------------------------------------------------|:-------------------------:|
 | 1  | Ensemble $\mathbb{N}$ et notions d'arithmétique                                                         | TD1                       |
 | 2  | Calcul vectoriel dans le plan                                                                           | TD2                       |
-| 3  | [Ensembles $\mathbb{N}$, $\mathbb{Z}$, $\mathbb{D}$, $\mathbb{Q}$ et $\mathbb{R}$](pdfs/TCT/Chap3.pdf)  | TD3                       |
+| 3  | [Ensembles $\mathbb{N}$, $\mathbb{Z}$, $\mathbb{D}$, $\mathbb{Q}$ et $\mathbb{R}$](pdfs/TCT/chap3.pdf)  | TD3                       |
 
 
 ## Support et Contact
