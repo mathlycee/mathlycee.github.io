@@ -6,11 +6,12 @@ Cette page est mise en place pour servir des cours et d'autres documents à mes 
 
 Liste des cours et TDs, téléchargeable en format pdf, de la première année du Baccalauréat section Sciences Techniques et Éléctricité (STE).
 
-|    | Chapitre                                           | Série                     |
-|:--:|----------------------------------------------------|:-------------------------:|
-| 1  | [Notions de logique](pdfs/1STE/Chap1.pdf)          | TD1                       |
-| 2  |                                                    |                           |
-| 3  |                                                    |                           |
+|    | Chapitre                                                      | Série                     |
+|:--:|---------------------------------------------------------------|:-------------------------:|
+| 1  | [Notions de logique](pdfs/1STE/Chap1.pdf)                     | TD1                       |
+| 2  | Généralités sur les fonctions                                 | TD2                       |
+| 3  | [Barycentre dans le plan](pdfs/1STE/chap3.pdf)                | TD3                       |
+| 4  | [Produit scalaire dans le plan](pdfs/1STE/chap4.pdf)          | TD4                       |
 
 
 ## Cours avec TDs TCT
@@ -22,7 +23,7 @@ Liste des cours avec TDs, téléchargeable en format pdf, du Tronc Commun Techni
 | 1  | Ensemble $\mathbb{N}$ et notions d'arithmétique                                                         | TD1                       |
 | 2  | Calcul vectoriel dans le plan                                                                           | TD2                       |
 | 3  | [Ensembles $\mathbb{N}$, $\mathbb{Z}$, $\mathbb{D}$, $\mathbb{Q}$ et $\mathbb{R}$](pdfs/TCT/chap3.pdf)  | TD3                       |
-| 4  | Projection dans le plan                                                                                 | TD4                       |
+| 4  | [Projection dans le plan](pdfs/TCT/chap4.pdf)                                                           | TD4                       |
 | 5  | [Ordre dans $\mathbb{R}$](pdfs/TCT/chap5.pdf)                                                           | TD5                       |
 
 
