@@ -15,6 +15,9 @@ Liste des cours et TDs, téléchargeable en format pdf, de la première année d
 | 5  | [Suites numériques](pdfs/1STE/chap5.pdf)                      | TD5                       |
 | 6  | [Trigonométrie](pdfs/1STE/chap6.pdf)                          | TD6                       |
 | 7  | [Rotation](pdfs/1STE/chap7.pdf)                               | TD7                       |
+| 8  | [Limites](pdfs/1STE/chap8.pdf)                                | TD8                       |
+| 9  | [Dérivation](pdfs/1STE/chap9.pdf)                             | TD9                       |
+| 10 | [Étude de fonctions](pdfs/1STE/chap10.pdf)                    | TD10                      |
 
 
 
