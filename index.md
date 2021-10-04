@@ -1,6 +1,6 @@
 ## Accueil
 
-Cette page est mise en place pour servir des cours et d'autres documents à mes éléves du TCT et du 1BSTE de l'année scolaire 2020-2021.
+Cette page est mise en place pour servir des cours et d'autres documents à mes éléves du TCT et du 1BSTE de l'année scolaire 2021-2022.
 
 ## Cours et TDs 1BSTE
 
