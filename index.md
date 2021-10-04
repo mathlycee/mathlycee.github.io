@@ -8,7 +8,7 @@ Liste des cours et TDs, téléchargeable en format pdf, de la première année d
 
 |    | Chapitre                                                      | Série                     |
 |:--:|---------------------------------------------------------------|:-------------------------:|
-| 2  | [Généralités sur les fonctions (TCS)](pdfs/1STE/Chap0.pdf)    | TD0                       |
+| 0  | [Généralités sur les fonctions (TCS)](pdfs/1STE/chap0.pdf)    | TD0                       |
 | 1  | [Notions de logique](pdfs/1STE/chap1.pdf)                     | TD1                       |
 | 2  | Généralités sur les fonctions                                 | TD2                       |
 | 3  | [Barycentre dans le plan](pdfs/1STE/chap3.pdf)                | TD3                       |
