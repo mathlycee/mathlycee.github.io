@@ -11,7 +11,7 @@ Liste des cours et TDs, téléchargeable en format pdf, de la première année d
 | 0  | [Généralités sur les fonctions (TCS)](pdfs/1STE/chap0.pdf)    | TD0                       |
 | 1  | [Notions de logique](pdfs/1STE/chap1.pdf)                     | TD1                       |
 | 2  | Généralités sur les fonctions                                 | TD2                       |
-| -  | ------------------------------------------------------------- | [Devoir libre 1 avec correcion](pdfs/1STE/DL1.pdf)       |
+| -  |                                                               | [Devoir libre 1 avec correcion](pdfs/1STE/DL1.pdf)       |
 | 3  | [Barycentre dans le plan](pdfs/1STE/chap3.pdf)                | TD3                       |
 | 4  | [Produit scalaire dans le plan](pdfs/1STE/chap4.pdf)          | TD4                       |
 | 5  | [Suites numériques](pdfs/1STE/chap5.pdf)                      | TD5                       |
@@ -32,7 +32,7 @@ Liste des cours avec TDs, téléchargeable en format pdf, du Tronc Commun Techni
 | 1  | Ensemble $\mathbb{N}$ et notions d'arithmétique                                                         | TD1                       |
 | 2  | Calcul vectoriel dans le plan                                                                           | TD2                       |
 | 3  | [Ensembles $\mathbb{N}$, $\mathbb{Z}$, $\mathbb{D}$, $\mathbb{Q}$ et $\mathbb{R}$](pdfs/TCT/chap3.pdf)  | TD3                       |
-| -  | ------------------------------------------------------------------------------------------------------- | [Devoir libre 1](pdfs/TCT/DL1.pdf)       |
+| -  |                                                                                                         | [Devoir libre 1](pdfs/TCT/DL1.pdf)       |
 | 4  | [Projection dans le plan](pdfs/TCT/chap4.pdf)                                                           | TD4                       |
 | 5  | [Ordre dans $\mathbb{R}$](pdfs/TCT/chap5.pdf)                                                           | TD5                       |
 | 6  | [Polynômes](pdfs/TCT/chap6.pdf)                                                                         | TD6                       |
