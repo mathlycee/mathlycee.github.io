@@ -37,7 +37,7 @@ Liste des cours avec TDs, téléchargeable en format pdf, du Tronc Commun Techni
 | 5  | [Ordre dans $\mathbb{R}$](pdfs/TCT/chap5.pdf)                                                           | TD5                       |                |
 | -  |                                                                                                         | [Devoir libre 2 sans correction](pdfs/TCT/DL2.pdf)       |                |
 | 6  | [Droite dans le plan](pdfs/TCT/chap6.pdf)                                                               | TD6                       | [Playlist](https://www.youtube.com/watch?v=81GnfsW675M&list=PLnm-difRg2I4GANooAuojrVcl6FM2Nr79)     |
-| 7  | [Polynômes](pdfs/TCT/chap7.pdf)                                                                         | TD7                       |                |
+| 7  | [Polynômes](pdfs/TCT/chap7.pdf)                                                                         | TD7                       | [Playlist 1](https://www.youtube.com/watch?v=_zMIJM0wclI&list=PLnm-difRg2I6uS8gdf2z3AzozdwsorgkE) -- [Playlist 2](https://www.youtube.com/watch?v=XqUPVraEV9s&list=PLnm-difRg2I7cOLhxqnZW_nkGkxbrbG3Q)     |
 | 8  | [Équations, inéquations et systèmes](pdfs/TCT/chap8.pdf)                                                | TD8                       |                |
 | 9  | [Calcul trigonométrique](pdfs/TCT/chap9.pdf)                                                            | TD9                       |                |
 | 10 | [Fonctions numériques: Généralités](pdfs/TCT/chap10.pdf)                                                | TD10                      |                |
