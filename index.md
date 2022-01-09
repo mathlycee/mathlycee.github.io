@@ -27,20 +27,20 @@ Liste des cours et TDs, téléchargeable en format pdf, de la première année d
 
 Liste des cours avec TDs, téléchargeable en format pdf, du Tronc Commun Technique (TCT).
 
-|    | Chapitre                                                                                                | Série                     |
-|:--:|---------------------------------------------------------------------------------------------------------|:-------------------------:|
-| 1  | Ensemble $\mathbb{N}$ et notions d'arithmétique                                                         | TD1                       |
-| 2  | Calcul vectoriel dans le plan                                                                           | TD2                       |
-| 3  | [Ensembles $\mathbb{N}$, $\mathbb{Z}$, $\mathbb{D}$, $\mathbb{Q}$ et $\mathbb{R}$](pdfs/TCT/chap3.pdf)  | TD3                       |
-| -  |                                                                                                         | [Devoir libre 1 avec correction](pdfs/TCT/DL1.pdf)       |
-| 4  | [Projection dans le plan](pdfs/TCT/chap4.pdf)                                                           | TD4                       |
-| 5  | [Ordre dans $\mathbb{R}$](pdfs/TCT/chap5.pdf)                                                           | TD5                       |
-| -  |                                                                                                         | [Devoir libre 2 sans correction](pdfs/TCT/DL2.pdf)       |
-| 6  | [Droite dans le plan](pdfs/TCT/chap6.pdf)                                                               | TD6                       |
-| 7  | [Polynômes](pdfs/TCT/chap7.pdf)                                                                         | TD7                       |
-| 8  | [Équations, inéquations et systèmes](pdfs/TCT/chap8.pdf)                                                | TD8                       |
-| 9  | [Calcul trigonométrique](pdfs/TCT/chap9.pdf)                                                            | TD9                       |
-| 10 | [Fonctions numériques: Généralités](pdfs/TCT/chap10.pdf)                                                | TD10                      |
+|    | Chapitre                                                                                                | Série                     | Vidéos         |
+|:--:|---------------------------------------------------------------------------------------------------------|:-------------------------:|:--------------:|
+| 1  | Ensemble $\mathbb{N}$ et notions d'arithmétique                                                         | TD1                       |                |
+| 2  | Calcul vectoriel dans le plan                                                                           | TD2                       |                |
+| 3  | [Ensembles $\mathbb{N}$, $\mathbb{Z}$, $\mathbb{D}$, $\mathbb{Q}$ et $\mathbb{R}$](pdfs/TCT/chap3.pdf)  | TD3                       |                |
+| -  |                                                                                                         | [Devoir libre 1 avec correction](pdfs/TCT/DL1.pdf)       |                |
+| 4  | [Projection dans le plan](pdfs/TCT/chap4.pdf)                                                           | TD4                       |                |
+| 5  | [Ordre dans $\mathbb{R}$](pdfs/TCT/chap5.pdf)                                                           | TD5                       |                |
+| -  |                                                                                                         | [Devoir libre 2 sans correction](pdfs/TCT/DL2.pdf)       |                |
+| 6  | [Droite dans le plan](pdfs/TCT/chap6.pdf)                                                               | TD6                       | [Playlist](https://www.youtube.com/watch?v=81GnfsW675M&list=PLnm-difRg2I4GANooAuojrVcl6FM2Nr79)     |
+| 7  | [Polynômes](pdfs/TCT/chap7.pdf)                                                                         | TD7                       |                |
+| 8  | [Équations, inéquations et systèmes](pdfs/TCT/chap8.pdf)                                                | TD8                       |                |
+| 9  | [Calcul trigonométrique](pdfs/TCT/chap9.pdf)                                                            | TD9                       |                |
+| 10 | [Fonctions numériques: Généralités](pdfs/TCT/chap10.pdf)                                                | TD10                      |                |
 
 
 
