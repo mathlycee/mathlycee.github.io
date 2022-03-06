@@ -16,8 +16,8 @@ Liste des cours et TDs, téléchargeable en format pdf, de la première année d
 | 4  | [Produit scalaire dans le plan](pdfs/1STE/chap4.pdf)          | TD4                       |
 | 5  | [Suites numériques](pdfs/1STE/chap5.pdf)                      | TD5                       |
 | 6  | [Trigonométrie](pdfs/1STE/chap6.pdf)                          | TD6                       |
-| 7  | [Rotation](pdfs/1STE/chap7.pdf)                               | TD7                       |
-| 8  | [Limites](pdfs/1STE/chap8.pdf)                                | TD8                       |
+| 8  | [Limites](pdfs/1STE/chap7.pdf)                                | TD7                       |
+| 7  | [Rotation](pdfs/1STE/chap8.pdf)                               | TD8                       |
 | 9  | [Dérivation](pdfs/1STE/chap9.pdf)                             | TD9                       |
 | 10 | [Étude de fonctions](pdfs/1STE/chap10.pdf)                    | TD10                      |
 
@@ -40,6 +40,7 @@ Liste des cours avec TDs, téléchargeable en format pdf, du Tronc Commun Techni
 | 7  | [Polynômes](pdfs/TCT/chap7.pdf)                                                                         | TD7                       | [Playlist 1](https://www.youtube.com/watch?v=_zMIJM0wclI&list=PLnm-difRg2I6uS8gdf2z3AzozdwsorgkE) -- [Playlist 2](https://www.youtube.com/watch?v=XqUPVraEV9s&list=PLnm-difRg2I7cOLhxqnZW_nkGkxbrbG3Q)     |
 | 8  | [Équations, inéquations et systèmes](pdfs/TCT/chap8.pdf)                                                | TD8                       |                |
 | 9  | [Calcul trigonométrique](pdfs/TCT/chap9.pdf)                                                            | TD9                       |                |
+| -  |                                                                                                         | [Devoir libre 4 sans correction](pdfs/TCT/DL4.pdf)       |                |
 | 10 | [Fonctions numériques: Généralités](pdfs/TCT/chap10.pdf)                                                | TD10                      |                |
 
 
