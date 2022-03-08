@@ -16,6 +16,7 @@ Liste des cours et TDs, téléchargeable en format pdf, de la première année d
 | 4  | [Produit scalaire dans le plan](pdfs/1STE/chap4.pdf)          | TD4                       |
 | 5  | [Suites numériques](pdfs/1STE/chap5.pdf)                      | TD5                       |
 | 6  | [Trigonométrie](pdfs/1STE/chap6.pdf)                          | TD6                       |
+| -  |                                                               | [Devoir libre 1 2S](pdfs/1STE/DL4.pdf)       |
 | 8  | [Limites](pdfs/1STE/chap7.pdf)                                | TD7                       |
 | 7  | [Rotation](pdfs/1STE/chap8.pdf)                               | TD8                       |
 | 9  | [Dérivation](pdfs/1STE/chap9.pdf)                             | TD9                       |
