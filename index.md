@@ -43,6 +43,8 @@ Liste des cours avec TDs, téléchargeable en format pdf, du Tronc Commun Techni
 | 9  | [Calcul trigonométrique](pdfs/TCT/chap9.pdf)                                                            | TD9                       |                |
 | -  |                                                                                                         | [Devoir libre 1 2S](pdfs/TCT/DL4.pdf)       |                |
 | 10 | [Fonctions numériques: Généralités](pdfs/TCT/chap10.pdf)                                                | TD10                      |                |
+| 11 | [Géométrie de l'espace](pdfs/TCT/tct-espace.pdf)                                                | TD11                      |                |
+
 
 
 
