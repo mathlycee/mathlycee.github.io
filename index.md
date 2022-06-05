@@ -21,6 +21,8 @@ Liste des cours et TDs, téléchargeable en format pdf, de la première année d
 | 7  | [Rotation](pdfs/1STE/chap8.pdf)                               | TD8                       |
 | 9  | [Dérivation](pdfs/1STE/chap9.pdf)                             | TD9                       |
 | 10 | [Étude de fonctions](pdfs/1STE/chap10.pdf)                    | TD10                      |
+| 11 | [Vecteurs dans l'espace](pdfs/1STE/vecteur-dans-l-espace.pdf) | TD11                      |
+
 
 
 
