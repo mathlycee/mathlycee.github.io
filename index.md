@@ -13,7 +13,8 @@ Liste des cours et TDs, téléchargeable en format pdf, de la première année d
 | 2  | Généralités sur les fonctions                                 | [TD2](pdfs/1STE/TD2.pdf)                       |
 | -  |                                                               | [Devoir libre 1a avec correction](pdfs/1STE/DL1.pdf)       |
 | -  |                                                               | [Devoir libre 1b sans correction](pdfs/1STE/DL1b.pdf)       |
-| 3  | [Barycentre dans le plan](pdfs/1STE/chap3.pdf)                | TD3                       |
+| 3  | [Barycentre dans le plan](pdfs/1STE/chap3.pdf)                | [TD3](pdfs/1STE/TD3.pdf)  |
+| -  |                                                               | [Devoir libre 2](pdfs/1STE/DL2.pdf)       |
 | 4  | [Produit scalaire dans le plan](pdfs/1STE/chap4.pdf)          | TD4                       |
 | 5  | [Suites numériques](pdfs/1STE/chap5.pdf)                      | TD5                       |
 | 6  | [Trigonométrie](pdfs/1STE/chap6.pdf)                          | TD6                       |
@@ -37,9 +38,9 @@ Liste des cours avec TDs, téléchargeable en format pdf, du Tronc Commun Techni
 | 2  | Ensembles $\mathbb{N}$, $\mathbb{Z}$, $\mathbb{D}$, $\mathbb{Q}$ et $\mathbb{R}$                        | TD2                       |                |
 | 3  | [Calcul vectoriel dans le plan](pdfs/TCT/chap3.pdf)                                                     | TD3                       |                |
 | -  |                                                                                                         | [Devoir libre 1](pdfs/TCT/DL1.pdf)       |                |
-| 4  | [Projection dans le plan](pdfs/TCT/chap4.pdf)                                                           | TD4                       |                |
-| 5  | [Ordre dans $\mathbb{R}$](pdfs/TCT/chap5.pdf)                                                           | TD5                       |                |
-| -  |                                                                                                         | Devoir libre 2            |                |
+| 4  | [Ordre dans $\mathbb{R}$](pdfs/TCT/chap5.pdf)                                                           | TD4                       |                |
+| 5  | [Projection dans le plan](pdfs/TCT/chap4.pdf)                                                           | TD5                       |                |
+| -  |                                                                                                         | [Devoir libre 2](pdfs/TCT/DL2.pdf)       |                |
 | 6  | [Droite dans le plan](pdfs/TCT/chap6.pdf)                                                               | TD6                       | [Playlist](https://www.youtube.com/watch?v=81GnfsW675M&list=PLnm-difRg2I4GANooAuojrVcl6FM2Nr79)     |
 | 7  | [Polynômes](pdfs/TCT/chap7.pdf)                                                                         | TD7                       | [Playlist 1](https://www.youtube.com/watch?v=_zMIJM0wclI&list=PLnm-difRg2I6uS8gdf2z3AzozdwsorgkE) -- [Playlist 2](https://www.youtube.com/watch?v=XqUPVraEV9s&list=PLnm-difRg2I7cOLhxqnZW_nkGkxbrbG3Q)     |
 | 8  | [Équations, inéquations et systèmes](pdfs/TCT/chap8.pdf)                                                | TD8                       |                |
