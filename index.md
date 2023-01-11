@@ -16,6 +16,7 @@ Liste des cours et TDs, téléchargeable en format pdf, de la première année d
 | 3  | [Barycentre dans le plan](pdfs/1STE/chap3.pdf)                | [TD3](pdfs/1STE/TD3.pdf)  |
 | -  |                                                               | [Devoir libre 2](pdfs/1STE/DL2.pdf)       |
 | 4  | [Produit scalaire dans le plan](pdfs/1STE/chap4.pdf)          | TD4                       |
+| -  |                                                               | [Devoir libre 3](pdfs/1STE/DL3.pdf)       |
 | 5  | [Suites numériques](pdfs/1STE/chap5.pdf)                      | TD5                       |
 | 6  | [Trigonométrie](pdfs/1STE/chap6.pdf)                          | TD6                       |
 | -  |                                                               | Devoir libre 1 2S         |
