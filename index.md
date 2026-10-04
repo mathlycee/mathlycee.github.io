@@ -8,20 +8,20 @@ Liste des cours et TDs, téléchargeable en format pdf, de la première année d
 
 |    | Chapitre                                                      | Série                     |
 |:--:|---------------------------------------------------------------|:-------------------------:|
-| 1  | [Notions de logique](pdfs/1STE/chap1.pdf)                     | TD1                       |
-| 2  | Généralités sur les fonctions                                 | [TD2](pdfs/1STE/TD2.pdf)                       |
-| -  |                                                               | [Devoir libre 1a avec correction](pdfs/1STE/DL1.pdf)       |
-| -  |                                                               | [Devoir libre 1b sans correction](pdfs/1STE/DL1b.pdf)       |
-| 3  | [Barycentre dans le plan](pdfs/1STE/chap3.pdf)                | [TD3](pdfs/1STE/TD3.pdf)  |
-| -  |                                                               | [Devoir libre 2](pdfs/1STE/DL2.pdf)       |
-| 4  | [Produit scalaire dans le plan](pdfs/1STE/chap4.pdf)          | TD4                       |
-| -  |                                                               | [Devoir libre 3](pdfs/1STE/DL3.pdf)       |
-| 5  | [Suites numériques](pdfs/1STE/chap5.pdf)                      | TD5                       |
-| 6  | [Trigonométrie](pdfs/1STE/chap6.pdf)                          | TD6                       |
+| 1  | [Notions de logique](pdfs/1ST/chap1.pdf)                     | TD1                       |
+| 2  | [Généralités sur les fonctions](pdfs/1ST/chap2.pdf)                                 | [TD2](pdfs/1ST/TD2.pdf)                       |
+| -  |                                                               | [Devoir libre 1a avec correction](pdfs/1ST/DL1.pdf)       |
+| -  |                                                               | [Devoir libre 1b sans correction](pdfs/1ST/DL1b.pdf)       |
+| 3  | [Barycentre dans le plan](pdfs/1ST/chap3.pdf)                | [TD3](pdfs/1ST/TD3.pdf)  |
+| -  |                                                               | [Devoir libre 2](pdfs/1ST/DL2.pdf)       |
+| 4  | [Produit scalaire dans le plan](pdfs/1ST/chap4.pdf)          | TD4                       |
+| -  |                                                               | [Devoir libre 3](pdfs/1ST/DL3.pdf)       |
+| 5  | [Suites numériques](pdfs/1ST/chap5.pdf)                      | TD5                       |
+| 6  | [Trigonométrie](pdfs/1ST/chap6.pdf)                          | TD6                       |
 | -  |                                                               | Devoir libre 1 2S         |
-| 8  | [Limites](pdfs/1STE/chap7.pdf)                                | TD7                       |
-| 7  | [Rotation](pdfs/1STE/chap8.pdf)                               | TD8                       |
-| 9  | [Dérivation](pdfs/1STE/chap9.pdf)                             | TD9                       |
+| 8  | [Limites](pdfs/1ST/chap7.pdf)                                | TD7                       |
+| 7  | [Rotation](pdfs/1ST/chap8.pdf)                               | TD8                       |
+| 9  | [Dérivation](pdfs/1ST/chap9.pdf)                             | TD9                       |
 | 10 | [Étude de fonctions](pdfs/1STE/chap10.pdf)                    | TD10                      |
 | 11 | [Vecteurs dans l'espace](pdfs/1STE/vecteur-dans-l-espace.pdf) | TD11                      |
 
